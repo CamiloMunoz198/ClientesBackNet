@@ -1,0 +1,6 @@
+@ClientesBackNet_HostAddress = http://localhost:5064
+
+GET {{ClientesBackNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
